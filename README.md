@@ -56,7 +56,7 @@ _Hi, this is ***Aidan***. An AI research student, programmer and Script Noobie. 
 </br>
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=livxy&langs_count=6&layout=compact&theme=gotham)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=livxy&layout=compact&theme=gotham)]
 <h6> Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. </h6>
 
 </div>
