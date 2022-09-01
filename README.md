@@ -32,15 +32,15 @@ _Hi, this is ***Aidan***. An AI research student, programmer and Script Noobie. 
 
 <!--  <img src="https://c.tenor.com/grhuEkbcNh8AAAAi/emoji-fast-typing.gif"> -->
  
-[![Livxy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Livxy&count_private=true&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+[![Livxy's GitHub stats](https://github-readme-stats.vercel.app/api?username=livxy&count_private=true&show_icons=true&theme=gotham)]
  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Livxy&theme=gotham)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=livxy&theme=gotham)](https://git.io/streak-stats)
 </br>
 </br>
 <h2><i>Activity Graph</i></h2>
 </br>
 
-[![Livxy's github activity graph](https://activity-graph.herokuapp.com/graph?username=Livxy&theme=gotham)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Livxy's github activity graph](https://activity-graph.herokuapp.com/graph?username=livxy&theme=gotham)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <h2><i>Language and Tools</i></h2>
 </br>
@@ -53,11 +53,10 @@ _Hi, this is ***Aidan***. An AI research student, programmer and Script Noobie. 
  <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/3d170b34b08dabaeda6158e17eee7d32b930f923/public/logos/vscode.svg" height="auto" width="60">
   <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg" height="auto" width="130">
  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-official.svg" width="130px">
- 
 </br>
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=livxy&langs_count=6&layout=compact&theme=gotham)](https://github.com/livxy/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=livxy&langs_count=6&layout=compact&theme=gotham)]
 <h6> Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. </h6>
 
 </div>
