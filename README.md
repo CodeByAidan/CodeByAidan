@@ -18,8 +18,8 @@
 - 📫 How to reach me **aidan4043@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+[![Discord](https://lanyard.cnrad.dev/api/300291395883892737)](https://discord.com/users/300291395883892737)
 <p align="left">
-[![Discord Presence](https://lanyard.cnrad.dev/api/300291395883892737)](https://discord.com/users/300291395883892737)
 </p> 
 
 <h3 align="left">Languages and Tools:</h3>
