@@ -18,7 +18,6 @@
 - 📫 How to reach me **aidan4043@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-[![Discord](https://lanyard.cnrad.dev/api/300291395883892737)](https://discord.com/users/300291395883892737)
 <p align="left">
 </p> 
 
@@ -30,3 +29,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=livxy&show_icons=true&locale=en" alt="livxy" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=livxy&" alt="livxy" /></p>
+
+
+
+[![Discord](https://lanyard.cnrad.dev/api/300291395883892737)](https://discord.com/users/300291395883892737)
