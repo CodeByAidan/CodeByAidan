@@ -66,7 +66,7 @@ _Hi, this is ***Aidan***. An AI research student, programmer and Script Noobie. 
 <table width="auto" align='center'>
 <tr>
     <td align='center' width="auto">
-        <a href="https://info.flagcounter.com/rJAp%22%3E"><img src="https://s01.flagcounter.com/count2/rJAp/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_250/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+        <a href="https://info.flagcounter.com/Y4ii"><img src="https://s01.flagcounter.com/count2/Y4ii/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_250/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
     </td>
 </tr>
 </table>
