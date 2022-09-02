@@ -8,7 +8,7 @@
 
 <img align="right" src="https://64.media.tumblr.com/4c1305b98830868fc843e080f8de986c/b762112e0ae6dd9b-f3/s640x960/778ce4b9eb986da34fff5cb393a25463a1db413b.gif" widht="300">
 
-_Hi, this is ***Aidan***. An AI research student, programmer and Script Noobie. I spend my free time working on side projects and discussing about technology on internet forums. I'm currently learning ***Discord Self-Botting*** and ***JavaScript & JQuery***. You can contact me on Discord._
+_Hi, this is ***Aidan***. An AI research student, programmer and Script Noobie. I spend my free time working on side projects and discussing about technology on internet forums. I'm currently learning ***Discord Self-Botting*** and ***JavaScript & JQuery***. ADDICTED TO [CODEWARS](https://www.codewars.com/users/livxy)! You can contact me on Discord._
 
 <h3 align='center'><i>Social Media Handles</i></h3>
 <p align='center'>
@@ -25,7 +25,7 @@ _Hi, this is ***Aidan***. An AI research student, programmer and Script Noobie. 
 
 <h3 align="center">
  
-<img src="https://komarev.com/ghpvc/?username=livxy&label=Profile%20views&color=0e75b6&style=flat" alt="livxy" />    [![wakatime](https://wakatime.com/badge/user/df411a1a-efe6-4563-bbd4-4aeac36e8212.svg)](https://wakatime.com/@df411a1a-efe6-4563-bbd4-4aeac36e8212)    ![Codewars](https://www.codewars.com/users/livxy/badges/micro)
+<img src="https://komarev.com/ghpvc/?username=livxy&label=Profile%20views&color=0e75b6&style=flat" alt="livxy" />    [![wakatime](https://wakatime.com/badge/user/df411a1a-efe6-4563-bbd4-4aeac36e8212.svg)](https://wakatime.com/@df411a1a-efe6-4563-bbd4-4aeac36e8212)    [![Codewars](https://www.codewars.com/users/livxy/badges/micro)](https://www.codewars.com/users/livxy)
 
  </h3>
  </br>
