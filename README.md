@@ -34,7 +34,7 @@ _Hi, this is ***Aidan***. An AI research student, programmer and Script Noobie. 
 
 <!--  <img src="https://c.tenor.com/grhuEkbcNh8AAAAi/emoji-fast-typing.gif"> -->
  
-[![Livxy's GitHub stats](https://github-readme-stats.vercel.app/api?username=livxy&count_private=true&show_icons=true&theme=gotham)]
+![Livxy's GitHub stats](https://github-readme-stats.vercel.app/api?username=livxy&count_private=true&show_icons=true&theme=gotham)
  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=livxy&count_private=true&theme=gotham)](https://git.io/streak-stats)
 </br>
@@ -58,7 +58,7 @@ _Hi, this is ***Aidan***. An AI research student, programmer and Script Noobie. 
 </br>
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=livxy&count_private=true&layout=compact&theme=gotham)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=livxy&count_private=true&layout=compact&theme=gotham)
 <h6> Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. </h6>
 
 </div>
