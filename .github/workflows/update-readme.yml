@@ -1,3 +1,7 @@
+name: waka-box
+uses: matchai/waka-box@v4.0.5
+
+
 # Visit https://github.com/lowlighter/metrics#-documentation for full reference
 name: Metrics
 on:
