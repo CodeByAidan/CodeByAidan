@@ -72,4 +72,10 @@ _Hi, this is ***Aidan***. An AI research student, programmer and Script Noobie. 
 </table>
 
 <!--START_SECTION:waka-->
+
+```text
+Python       6 hrs 25 mins   ██████████████████▒░░░░░░   73.54 %
+Other        1 hr 37 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.61 %
+```
+
 <!--END_SECTION:waka-->
