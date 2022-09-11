@@ -70,3 +70,6 @@ _Hi, this is ***Aidan***. An AI research student, programmer and Script Noobie. 
     </td>
 </tr>
 </table>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
