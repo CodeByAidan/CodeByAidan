@@ -1,7 +1,7 @@
 name: Metrics
 on:
   schedule:
-    - cron: "50 * * * *"
+    - cron: "1 * * * *"
   push: {}
   pull_request: {}
 jobs:
