@@ -19,7 +19,7 @@ jobs:
           committer_message: "[metrics] update metrics"
           optimize: css, xml, svg
           experimental_features: --optimize-svg
-          config_timezone: America/Los_Angeles
+          config_timezone: US/Eastern
           config_display: columns
           committer_branch: metrics
 
