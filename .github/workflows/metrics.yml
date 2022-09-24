@@ -39,5 +39,3 @@ jobs:
           # https://github.com/lowlighter/metrics/blob/master/source/plugins/languages/README.md
           plugin_languages: yes
           plugin _languages_limit: 0
-
-/
