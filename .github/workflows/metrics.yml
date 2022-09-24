@@ -22,7 +22,6 @@ jobs:
           experimental_features: --optimize-svg
           config_timezone: US/Eastern
           config_display: columns
-          committer_branch: metrics
 
           # https://github.com/lowlighter/metrics/blob/master/source/plugins/isocalendar/README.md
           plugin_isocalendar: no
