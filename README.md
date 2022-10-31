@@ -6,7 +6,7 @@
 
 </h2>
 
-<img align="right" src="https://user-images.githubusercontent.com/67598470/199028886-a8f2434e-7ed3-4528-8e06-ae3340539861.gif" width="300">
+<img align="right" src="https://user-images.githubusercontent.com/67598470/199029189-64a854c4-2f8e-421a-870c-92f3650d389e.gif" width="300">
 
 _Hi, this is ***Aidan***. An AI research student, programmer and Script Noobie. I spend my free time working on side projects and discussing about technology on internet forums. I'm currently learning ***Discord Self-Botting*** and ***JavaScript & JQuery***. ADDICTED TO [CODEWARS](https://www.codewars.com/users/livxy)! You can contact me on Discord._
 
