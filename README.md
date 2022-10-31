@@ -85,7 +85,7 @@ Other   52 mins         >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
 <table width="auto" align='center'>
 <tr>
     <td align='center' width="auto">
-        <a href="https://user-images.githubusercontent.com/67598470/199029447-43a7bb6d-4414-49a4-9951-0b9a6022ca2c.gif"><img src="https://user-images.githubusercontent.com/67598470/199029447-43a7bb6d-4414-49a4-9951-0b9a6022ca2c.gif" alt="cat" border="0"></a>
+        <a href="https://user-images.githubusercontent.com/67598470/199029447-43a7bb6d-4414-49a4-9951-0b9a6022ca2c.gif"><img src="https://user-images.githubusercontent.com/67598470/199029447-43a7bb6d-4414-49a4-9951-0b9a6022ca2c.gif" alt="cat"></a>
     </td>
 </tr>
 </table>
