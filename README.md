@@ -3,7 +3,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font='Comfortaa'&color=%23268F77&size=30&center=true&vCenter=true&height=30&lines=Hello+there+!;Welcome+to+my+profile+!)](https://git.io/typing-svg)
 
 
-
 </h2>
 
 <img align="right" src="https://user-images.githubusercontent.com/67598470/199029189-64a854c4-2f8e-421a-870c-92f3650d389e.gif" width="300">
@@ -82,3 +81,11 @@ Other   52 mins         >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
 ```
 
 <!--END_SECTION:waka-->
+<br>
+<table width="auto" align='center'>
+<tr>
+    <td align='center' width="auto">
+        <a href="https://user-images.githubusercontent.com/67598470/199029447-43a7bb6d-4414-49a4-9951-0b9a6022ca2c.gif"><img src="https://user-images.githubusercontent.com/67598470/199029447-43a7bb6d-4414-49a4-9951-0b9a6022ca2c.gif" alt="cat" border="0"></a>
+    </td>
+</tr>
+</table>
