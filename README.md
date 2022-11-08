@@ -73,15 +73,15 @@ _Hi, this is ***Aidan***. An AI research student, programmer and Script Noobie. 
 <!--START_SECTION:waka-->
 
 ```text
-From: 31 October 2022 - To: 07 November 2022
+From: 01 November 2022 - To: 08 November 2022
 
-Total Time: 8 hrs 23 mins
+Total Time: 8 hrs 8 mins
 
-Python       6 hrs 13 mins   >>>>>>>>>>>>>>>>>>>------   74.17 %
-HTML         46 mins         >>-----------------------   09.22 %
-JavaScript   30 mins         >>-----------------------   06.13 %
-CSS          24 mins         >------------------------   04.83 %
-Other        19 mins         >------------------------   03.78 %
+Python       6 hrs 13 mins   >>>>>>>>>>>>>>>>>>>------   76.32 %
+HTML         46 mins         >>-----------------------   09.49 %
+JavaScript   25 mins         >------------------------   05.29 %
+CSS          24 mins         >------------------------   04.97 %
+Other        9 mins          >------------------------   02.04 %
 ```
 
 <!--END_SECTION:waka-->
