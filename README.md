@@ -2,7 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font='Comfortaa'&color=%23268F77&size=30&center=true&vCenter=true&height=30&lines=Hello+there+!;Welcome+to+my+profile+!)](https://git.io/typing-svg)
 
-
 </h2>
 
 <img align="right" src="https://user-images.githubusercontent.com/67598470/199029189-64a854c4-2f8e-421a-870c-92f3650d389e.gif" width="300">
@@ -11,7 +10,7 @@ _Hi, this is ***Aidan***. An AI research student, programmer and Script Noobie. 
 
 <h3 align='center'><i>Social Media Handles</i></h3>
 <p align='center'>
- 
+
 <table width="auto" align='center'>
 <tr>
     <td align='center' width="auto">
@@ -23,7 +22,7 @@ _Hi, this is ***Aidan***. An AI research student, programmer and Script Noobie. 
 </p>
 
 <h3 align="center">
- 
+
 <img src="https://komarev.com/ghpvc/?username=livxy&label=Profile%20views&color=0e75b6&style=flat" alt="livxy" />    [![wakatime](https://wakatime.com/badge/user/df411a1a-efe6-4563-bbd4-4aeac36e8212.svg)](https://wakatime.com/@df411a1a-efe6-4563-bbd4-4aeac36e8212)    [![Codewars](https://www.codewars.com/users/livxy/badges/micro)](https://www.codewars.com/users/livxy)
 
  </h3>
@@ -32,9 +31,9 @@ _Hi, this is ***Aidan***. An AI research student, programmer and Script Noobie. 
 <h1><i>Stats</i></h1>
 
 <!--  <img src="https://c.tenor.com/grhuEkbcNh8AAAAi/emoji-fast-typing.gif"> -->
- 
+
 ![Livxy's GitHub stats](https://github-readme-stats.vercel.app/api?username=livxy&count_private=true&show_icons=true&theme=gotham)
- 
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=livxy&count_private=true&theme=gotham)](https://git.io/streak-stats)
 </br>
 </br>
@@ -46,7 +45,7 @@ _Hi, this is ***Aidan***. An AI research student, programmer and Script Noobie. 
 <h2><i>Language and Tools</i></h2>
 </br>
  <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/javascript/javascript-original.svg" height="auto" width="60px">
- <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" height="auto" width="60px"> 
+ <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" height="auto" width="60px">
  <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" height="auto" width="60px">
  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" height="auto" width="60px">
  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg" height="auto" width="130px">
@@ -85,25 +84,17 @@ JavaScript     29 mins         >------------------------   02.85 %
 Bash           14 mins         -------------------------   01.43 %
 ```
 
-<!--END_SECTION:waka-->
-<br>
-<table width="auto" align='center'>
-<tr>
-    <td align='center' width="auto">
-        <a href="https://user-images.githubusercontent.com/67598470/199029447-43a7bb6d-4414-49a4-9951-0b9a6022ca2c.gif"><img src="https://user-images.githubusercontent.com/67598470/199029447-43a7bb6d-4414-49a4-9951-0b9a6022ca2c.gif" alt="cat"></a>
-    </td>
-</tr>
-
- 
- 
- <table width="100%"> 
+<table width="100%"> 
   <tr>
   <td width="50%">
 
-&nbsp; <br> [![Spotify](https://dadaada-ek3chx763-livxy.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/aidan-332)
+&nbsp; <br> [![Spotify](https://sptifyrdme.herokuapp.com/m/?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/aidan-332)
+
 
   </td>
+  <td width="50%">
 
+&nbsp;      <p align="center"><a href="https://user-images.githubusercontent.com/67598470/199029447-43a7bb6d-4414-49a4-9951-0b9a6022ca2c.gif"><img src="https://user-images.githubusercontent.com/67598470/199029447-43a7bb6d-4414-49a4-9951-0b9a6022ca2c.gif" alt="cat"></a></p>
 
   </p>
   </td>
