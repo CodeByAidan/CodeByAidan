@@ -93,4 +93,19 @@ Bash           14 mins         -------------------------   01.43 %
         <a href="https://user-images.githubusercontent.com/67598470/199029447-43a7bb6d-4414-49a4-9951-0b9a6022ca2c.gif"><img src="https://user-images.githubusercontent.com/67598470/199029447-43a7bb6d-4414-49a4-9951-0b9a6022ca2c.gif" alt="cat"></a>
     </td>
 </tr>
+
+ 
+ 
+ <table width="100%"> 
+  <tr>
+  <td width="50%">
+
+&nbsp; <br> [![Spotify](https://dadaada-ek3chx763-livxy.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/aidan-332)
+
+  </td>
+
+
+  </p>
+  </td>
 </table>
+
