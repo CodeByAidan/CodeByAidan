@@ -70,7 +70,6 @@ _Hi, this is ***Aidan***. An AI research student, programmer and Script Noobie. 
 </table>
 
 <!--START_SECTION:waka-->
-
 ```text
 From: 14 November 2022 - To: 21 November 2022
 
@@ -83,6 +82,7 @@ C++            42 mins         >------------------------   04.03 %
 JavaScript     29 mins         >------------------------   02.85 %
 Bash           14 mins         -------------------------   01.43 %
 ```
+<!--END_SECTION:waka-->
 
 <table width="100%" align='center'>
   <tr>
