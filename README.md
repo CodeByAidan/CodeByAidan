@@ -84,19 +84,16 @@ JavaScript     29 mins         >------------------------   02.85 %
 Bash           14 mins         -------------------------   01.43 %
 ```
 
-<table width="100%"> 
+<table width="100%" align='center'>
   <tr>
-  <td width="50%">
+  <td width="50%" align='center'>
 
-&nbsp; <br> [![Spotify](https://sptifyrdme.herokuapp.com/m/?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/aidan-332)
-
+&nbsp; <br> [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=aidan-332&cover_image=true&theme=default&show_offline=false&background_color=000000&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
   </td>
   <td width="50%">
-
 &nbsp;      <p align="center"><a href="https://user-images.githubusercontent.com/67598470/199029447-43a7bb6d-4414-49a4-9951-0b9a6022ca2c.gif"><img src="https://user-images.githubusercontent.com/67598470/199029447-43a7bb6d-4414-49a4-9951-0b9a6022ca2c.gif" alt="cat"></a></p>
 
   </p>
   </td>
 </table>
-
