@@ -32,9 +32,7 @@ _Hi, this is ***Aidan***. An AI research student, programmer and Script Noobie. 
 
 <!--  <img src="https://c.tenor.com/grhuEkbcNh8AAAAi/emoji-fast-typing.gif"> -->
 
-![Livxy's GitHub stats](https://github-readme-stats.vercel.app/api?username=livxy&count_private=true&show_icons=true&theme=gotham)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=livxy&count_private=true&theme=gotham)](https://git.io/streak-stats)
+![Livxy's GitHub stats](https://github-readme-stats-livxy.vercel.app/api?username=livxy&count_private=true&show_icons=true&theme=gotham)&nbsp;&nbsp;[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=livxy&count_private=true&theme=gotham)](https://git.io/streak-stats)
 </br>
 </br>
 <h2><i>Activity Graph</i></h2>
