@@ -70,15 +70,16 @@ _Hi, this is ***Aidan***. An AI research student, programmer and Script Noobie. 
 <!--START_SECTION:waka-->
 
 ```text
-From: 25 November 2022 - To: 02 December 2022
+From: 26 November 2022 - To: 03 December 2022
 
-Total Time: 25 hrs 57 mins
+Total Time: 25 hrs 30 mins
 
-Python             22 hrs 8 mins   >>>>>>>>>>>>>>>>>>>>>----   85.31 %
-Markdown           1 hr 14 mins    >------------------------   04.79 %
-YAML               47 mins         >------------------------   03.08 %
-C++                20 mins         -------------------------   01.29 %
-Other              18 mins         -------------------------   01.17 %
+Python             21 hrs 27 mins  >>>>>>>>>>>>>>>>>>>>>----   84.13 %
+Markdown           1 hr 19 mins    >------------------------   05.21 %
+YAML               50 mins         >------------------------   03.27 %
+Haskell            24 mins         -------------------------   01.57 %
+Git Config         18 mins         -------------------------   01.18 %
+Other              17 mins         -------------------------   01.16 %
 ```
 
 <!--END_SECTION:waka-->
