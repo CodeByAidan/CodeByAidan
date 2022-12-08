@@ -11,6 +11,9 @@ _Hi, this is ***Aidan***. An AI research student, programmer and Script Noobie. 
 https://github.com/qoft/sellapp/pull/2#issuecomment-1341829208
 Love this argument :trollface:
 
+https://github.com/servetgulnaroglu/cube.c/issues/2#issuecomment-1272169976
+teaching a person linear algebra :trollface:
+
 <h3 align='center'><i>Social Media Handles</i></h3>
 <p align='center'>
 
