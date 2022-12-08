@@ -44,7 +44,7 @@ teaching a person linear algebra :trollface:
 <h2><i>Activity Graph</i></h2>
 </br>
 
-[![Livxy's github activity graph](https://activity-graph.herokuapp.com/graph?username=livxy&theme=gotham)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Livxy's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=livxy&theme=gotham)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <h2><i>Language and Tools</i></h2>
 </br>
