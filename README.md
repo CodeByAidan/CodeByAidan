@@ -8,6 +8,9 @@
 
 _Hi, this is ***Aidan***. An AI research student, programmer and Script Noobie. I spend my free time working on side projects and discussing about technology on internet forums. I'm currently learning ***Discord Self-Botting*** and ***JavaScript & JQuery***. ADDICTED TO [CODEWARS](https://www.codewars.com/users/livxy)! You can contact me on Discord._
 
+https://github.com/qoft/sellapp/pull/2#issuecomment-1341829208
+Love this argument :trollface:
+
 <h3 align='center'><i>Social Media Handles</i></h3>
 <p align='center'>
 
