@@ -61,7 +61,9 @@ teaching a person linear algebra :trollface:
 </br>
 </br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=livxy&count_private=true&layout=compact&theme=gotham)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=livxy&langs_count=10&text_color=9f9f9f&title_color=4F8CC9&bg_color=00000000&hide_border=false&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <h6> Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. </h6>
 
 </div>
