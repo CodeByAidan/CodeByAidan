@@ -20,7 +20,7 @@ teaching a person linear algebra :trollface:
 <table width="auto" align='center'>
 <tr>
     <td align='center' width="auto">
-        <a href="https://discord.com/users/300291395883892737"><img src="https://lanyard.cnrad.dev/api/300291395883892737" alt="Discord"></a>
+        <a href="https://discord.com/users/300291395883892737"><img src="https://lanyard-profile-readme.vercel.app/api/300291395883892737?theme=dark&bg=00000000&animated=true&hideDiscrim=false&borderRadius=30px&idleMessage=Probably%20doing%20something%20else..." alt="Discord"></a>
     </td>
 </tr>
 </table>
@@ -34,17 +34,18 @@ teaching a person linear algebra :trollface:
  </h3>
  </br>
 <div align="center">
+    
 <h1><i>Stats</i></h1>
 
 <!--  <img src="https://c.tenor.com/grhuEkbcNh8AAAAi/emoji-fast-typing.gif"> -->
 
-![Livxy's GitHub stats](https://github-readme-stats-livxy.vercel.app/api?username=livxy&count_private=true&show_icons=true&theme=gotham)&nbsp;&nbsp;[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=livxy&count_private=true&theme=gotham)](https://git.io/streak-stats)
+![Livxy's GitHub stats](https://github-readme-stats-livxy.vercel.app/api?username=livxy&title_color=4F8CC9&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true) [![GitHub Streak](https://streak-stats.demolab.com?user=livxy&hide_border=true&background=00000000&border=00000000&stroke=9F9F9F&ring=64B2FF&fire=4F8CC9&currStreakNum=4F8CC9&sideNums=4F8CC9&currStreakLabel=D8D8D8&sideLabels=D8D8D8&dates=9F9F9F)](https://git.io/streak-stats)
 </br>
 </br>
 <h2><i>Activity Graph</i></h2>
 </br>
 
-[![Livxy's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=livxy&theme=gotham)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Livxy's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=livxy&bg_color=00000000&color=c7c7c7&line=75baff&point=4F8CC9&area=true&hide_border=true)](https://github.com/livxy/)
 
 <h2><i>Language and Tools</i></h2>
 </br>
@@ -103,3 +104,7 @@ Other              15 mins         -------------------------   01.41 %
   </p>
   </td>
 </table>
+
+<p align="center">
+    <img src="https://discord.c99.nl/widget/theme-2/300291395883892737.png">
+</p>
