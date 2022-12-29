@@ -6,13 +6,13 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/67598470/199029189-64a854c4-2f8e-421a-870c-92f3650d389e.gif" width="300">
 
-_Hi, this is ***Aidan***. An AI research student, programmer and Script Noobie. I spend my free time working on side projects and discussing about technology on internet forums. I'm currently learning ***Discord Self-Botting*** and ***JavaScript & JQuery***. ADDICTED TO [CODEWARS](https://www.codewars.com/users/livxy)! You can contact me on Discord._
+_Hi, this is ***Aidan***. An AI research student, programmer and Script Noobie. I spend my free time working on side projects and discussing about technology on internet forums. You can contact me on Discord below!_
 
-https://github.com/qoft/sellapp/pull/2#issuecomment-1341829208
+<!-- https://github.com/qoft/sellapp/pull/2#issuecomment-1341829208
 Love this argument :trollface:
 
 https://github.com/servetgulnaroglu/cube.c/issues/2#issuecomment-1272169976
-teaching a person linear algebra :trollface:
+teaching a person linear algebra :trollface: -->
 
 <h3 align='center'><i>Social Media Handles</i></h3>
 <p align='center'>
@@ -29,7 +29,7 @@ teaching a person linear algebra :trollface:
 
 <h3 align="center">
 
-<img src="https://komarev.com/ghpvc/?username=livxy&label=Profile%20views&color=0e75b6&style=flat" alt="livxy" />    [![wakatime](https://wakatime.com/badge/user/df411a1a-efe6-4563-bbd4-4aeac36e8212.svg)](https://wakatime.com/@df411a1a-efe6-4563-bbd4-4aeac36e8212)    [![Codewars](https://www.codewars.com/users/livxy/badges/micro)](https://www.codewars.com/users/livxy)
+<img src="https://komarev.com/ghpvc/?username=livxy&label=Profile%20views&color=0e75b6&style=flat" alt="livxy" />    ![wakatime](https://wakatime.com/badge/user/df411a1a-efe6-4563-bbd4-4aeac36e8212.svg) <!-- (https://wakatime.com/@df411a1a-efe6-4563-bbd4-4aeac36e8212)    [![Codewars](https://www.codewars.com/users/livxy/badges/micro)](https://www.codewars.com/users/livxy) -->
 
  </h3>
  </br>
@@ -93,7 +93,7 @@ Markdown           21 mins         -------------------------   01.46 %
 
 <!--END_SECTION:waka-->
 
-<table width="100%" align='center'>
+<!-- <table width="100%" align='center'>
   <tr>
   <td width="50%" align='center'>
 
@@ -105,8 +105,9 @@ Markdown           21 mins         -------------------------   01.46 %
 
   </p>
   </td>
-</table>
-
+</table> -->
+<!-- 
 <p align="center">
     <img src="https://discord.c99.nl/widget/theme-2/300291395883892737.png">
 </p>
+ -->
