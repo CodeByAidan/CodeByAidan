@@ -111,3 +111,7 @@ Assembly     18 mins         >------------------------   02.26 %
     <img src="https://discord.c99.nl/widget/theme-2/300291395883892737.png">
 </p>
  -->
+ 
+<p align="center">
+    <img src="github-metrics.png">
+</p>
