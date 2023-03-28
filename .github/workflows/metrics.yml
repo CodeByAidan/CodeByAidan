@@ -37,5 +37,5 @@ jobs:
           plugin_achievements_ignored: automater, stargazer, forker, gister # developer, member, explorer, infographile
 
           # https://github.com/lowlighter/metrics/blob/master/source/plugins/languages/README.md
-          plugin_languages: yes
-          plugin _languages_limit: 0
+          # plugin_languages: yes
+          # plugin _languages_limit: 0
