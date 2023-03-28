@@ -47,7 +47,7 @@ teaching a person linear algebra :trollface: -->
 
 [![Livxy's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=livxy&bg_color=00000000&color=c7c7c7&line=75baff&point=4F8CC9&area=true&hide_border=true)](https://github.com/livxy/)
 
-<h2><i>Language and Tools</i></h2>
+<!-- <h2><i>Language and Tools</i></h2>
 </br>
  <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/javascript/javascript-original.svg" height="auto" width="60px">
  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" height="auto" width="60px">
@@ -59,9 +59,9 @@ teaching a person linear algebra :trollface: -->
   <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg" height="auto" width="130">
  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-official.svg" width="130px">
 </br>
-</br>
+</br> -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=livxy&langs_count=10&text_color=9f9f9f&title_color=4F8CC9&bg_color=00000000&hide_border=false&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=livxy&langs_count=10&text_color=9f9f9f&title_color=4F8CC9&bg_color=00000000&hide_border=false&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 <h6> Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. </h6>
