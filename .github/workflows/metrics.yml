@@ -14,6 +14,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
+          config_output: png
           # Your GitHub token
           # The following scopes are required:
           #  - repo
@@ -65,5 +66,5 @@ jobs:
           plugin_wakatime_limit: 5
           plugin_wakatime_repositories_visibility: all
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
-          plugin_wakatime_url: https://wakatime.com/@df411a1a-efe6-4563-bbd4-4aeac36e8212
+          plugin_wakatime_url: https://wakatime.com
           plugin_wakatime_user: livxy
