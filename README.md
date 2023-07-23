@@ -112,5 +112,5 @@ ReST               1 hr 59 mins    >------------------------   04.86 %
  -->
  
 <p align="center">
-    <img src="github-metrics.png">
+    <img src="github-metrics.svg">
 </p>
