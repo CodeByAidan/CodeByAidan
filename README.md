@@ -79,7 +79,7 @@ teaching a person linear algebra :trollface: -->
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 July 2023 - To: 01 August 2023
+From: 26 July 2023 - To: 02 August 2023
 
 Total Time: 25 hrs 22 mins
 
