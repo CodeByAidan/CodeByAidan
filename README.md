@@ -79,15 +79,15 @@ teaching a person linear algebra :trollface: -->
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 August 2023 - To: 10 August 2023
+From: 04 August 2023 - To: 11 August 2023
 
-Total Time: 25 hrs 27 mins
+Total Time: 16 hrs
 
-Java               15 hrs 45 mins  >>>>>>>>>>>>>>>----------   61.87 %
-Python             2 hrs 13 mins   >>-----------------------   08.73 %
-HTTP Request       1 hr 24 mins    >------------------------   05.56 %
-Kotlin             59 mins         >------------------------   03.89 %
-YAML               47 mins         >------------------------   03.10 %
+Java               6 hrs 54 mins   >>>>>>>>>>>--------------   43.19 %
+Python             2 hrs 13 mins   >>>----------------------   13.88 %
+HTTP Request       1 hr 2 mins     >>-----------------------   06.51 %
+Kotlin             59 mins         >>-----------------------   06.18 %
+YAML               45 mins         >------------------------   04.74 %
 ```
 
 <!--END_SECTION:waka-->
