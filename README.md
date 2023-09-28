@@ -29,7 +29,7 @@ teaching a person linear algebra :trollface: -->
 
 <h3 align="center">
 
-<img src="https://komarev.com/ghpvc/?username=CodeByAidan&label=Profile%20views&color=0e75b6&style=flat" alt="CodeByAidan" />    ![wakatime](https://wakatime.com/badge/user/df411a1a-efe6-4563-bbd4-4aeac36e8212.svg) <!-- (https://wakatime.com/@df411a1a-efe6-4563-bbd4-4aeac36e8212)    [![Codewars](https://www.codewars.com/users/livxy/badges/micro)](https://www.codewars.com/users/livxy) -->
+<img src="https://komarev.com/ghpvc/?username=CodeByAidan&label=Profile%20views&color=0e75b6&style=flat" alt="CodeByAidan" />    ![wakatime](https://wakatime.com/badge/user/df411a1a-efe6-4563-bbd4-4aeac36e8212.svg) <!-- (https://wakatime.com/@df411a1a-efe6-4563-bbd4-4aeac36e8212)    [![Codewars](https://www.codewars.com/users/CodeByAidan/badges/micro)](https://www.codewars.com/users/CodeByAidan) -->
 
  </h3>
  </br>
@@ -39,13 +39,13 @@ teaching a person linear algebra :trollface: -->
 
 <!--  <img src="https://c.tenor.com/grhuEkbcNh8AAAAi/emoji-fast-typing.gif"> -->
 
-![CodeByAidan's GitHub stats](https://github-readme-stats-livxy.vercel.app/api?username=CodeByAidan&title_color=4F8CC9&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true) [![GitHub Streak](https://streak-stats.demolab.com?user=CodeByAidan&hide_border=true&background=00000000&border=00000000&stroke=9F9F9F&ring=64B2FF&fire=4F8CC9&currStreakNum=4F8CC9&sideNums=4F8CC9&currStreakLabel=D8D8D8&sideLabels=D8D8D8&dates=9F9F9F)](https://git.io/streak-stats)
+![CodeByAidan's GitHub stats](https://github-readme-stats-CodeByAidan.vercel.app/api?username=CodeByAidan&title_color=4F8CC9&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true) [![GitHub Streak](https://streak-stats.demolab.com?user=CodeByAidan&hide_border=true&background=00000000&border=00000000&stroke=9F9F9F&ring=64B2FF&fire=4F8CC9&currStreakNum=4F8CC9&sideNums=4F8CC9&currStreakLabel=D8D8D8&sideLabels=D8D8D8&dates=9F9F9F)](https://git.io/streak-stats)
 </br>
 </br>
 <h2><i>Activity Graph</i></h2>
 </br>
 
-[![CodeByAidan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CodeByAidan&bg_color=00000000&color=c7c7c7&line=75baff&point=4F8CC9&area=true&hide_border=true)](https://github.com/livxy/)
+[![CodeByAidan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CodeByAidan&bg_color=00000000&color=c7c7c7&line=75baff&point=4F8CC9&area=true&hide_border=true)](https://github.com/CodeByAidan/)
 
 <!-- <h2><i>Language and Tools</i></h2>
 </br>
@@ -61,7 +61,7 @@ teaching a person linear algebra :trollface: -->
 </br>
 </br> -->
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=livxy&langs_count=10&text_color=9f9f9f&title_color=4F8CC9&bg_color=00000000&hide_border=false&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByAidan&langs_count=10&text_color=9f9f9f&title_color=4F8CC9&bg_color=00000000&hide_border=false&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 <h6> Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. </h6>
