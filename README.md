@@ -83,7 +83,11 @@ From: 14 November 2023 - To: 21 November 2023
 
 Total Time: 27 hrs 55 mins
 
-No activity tracked
+C++                 5 hrs 51 mins   >>>>>--------------------   20.97 %
+Java                5 hrs 30 mins   >>>>>--------------------   19.72 %
+Python              4 hrs 46 mins   >>>>---------------------   17.08 %
+Other               4 hrs 27 mins   >>>>---------------------   15.94 %
+TeX                 1 hr 20 mins    >------------------------   04.79 %
 ```
 
 <!--END_SECTION:waka-->
