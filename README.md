@@ -6,7 +6,7 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/67598470/199029189-64a854c4-2f8e-421a-870c-92f3650d389e.gif" width="300">
 
-_Hi, this is ***Aidan***. An AI research student, programmer and computer science student. I spend my free time working on side projects and discussing about technology on internet forums. You can contact me on Discord below!_
+_Hi, this is ***Aidan***. An AI research student, programmer and computer science student. I spend my free time working on side projects! You can contact me on Discord below!_
 
 <!-- https://github.com/qoft/sellapp/pull/2#issuecomment-1341829208
 Love this argument :trollface:
