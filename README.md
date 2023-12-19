@@ -121,7 +121,6 @@ Assembly         1 hr 48 mins    >------------------------   05.95 %
         "Arduino IDE",
         "CLion",
         "IntelliJ IDEA",
-        "JGrasp", // 🗿
         "Juypter Notebook",
         "NeoVim",
         "Obsidian",
