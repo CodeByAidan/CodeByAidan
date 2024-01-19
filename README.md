@@ -1,12 +1,17 @@
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi, I'm Aidan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1></summary>
+  </ul>
+</div>
+
 <h2 align="center">
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font='Comfortaa'&color=%23268F77&size=30&center=true&vCenter=true&height=30&lines=Hello+there+!;Welcome+to+my+profile+!)](https://git.io/typing-svg) -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</h2> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font='Comfortaa'&color=%23268F77&size=30&center=true&vCenter=true&height=30&lines=Hello+there+!;Welcome+to+my+profile+!)](https://git.io/typing-svg)
+<!-- <img align="right" src="https://user-images.githubusercontent.com/67598470/199029189-64a854c4-2f8e-421a-870c-92f3650d389e.gif" width="300"> -->
 
-</h2>
-
-<img align="right" src="https://user-images.githubusercontent.com/67598470/199029189-64a854c4-2f8e-421a-870c-92f3650d389e.gif" width="300">
-
-_Hi, this is ***Aidan***. An AI research self-learner, programmer, and computer science student. I spend my free time working on side projects! You can contact me on Discord below!_
+_I am a AI research self-learner, programmer, and computer science student. I spend my free time working on side projects! You can contact me on Discord below! :)_
 
 <!-- https://github.com/qoft/sellapp/pull/2#issuecomment-1341829208
 Love this argument :trollface:
