@@ -19,7 +19,7 @@ Love this argument :trollface:
 https://github.com/servetgulnaroglu/cube.c/issues/2#issuecomment-1272169976
 teaching a person linear algebra :trollface: -->
 
-<h3 align='center'><i>Social Media Handles</i></h3>
+<!-- <h3 align='center'><i>Social Media Handles</i></h3> -->
 <p align='center'>
 
 <table width="auto" align='center'>
