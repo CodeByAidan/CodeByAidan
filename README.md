@@ -86,15 +86,15 @@ teaching a person linear algebra :trollface: -->
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 April 2024 - To: 25 April 2024
+From: 19 April 2024 - To: 26 April 2024
 
-Total Time: 8 hrs 20 mins
+Total Time: 8 hrs 36 mins
 
-Python       6 hrs 20 mins   >>>>>>>>>>>>>>>>>>>------   76.10 %
-Java         1 hr 27 mins    >>>>---------------------   17.54 %
-TypeScript   17 mins         >------------------------   03.54 %
-JSON         5 mins          -------------------------   01.03 %
-Other        4 mins          -------------------------   00.98 %
+Python       6 hrs 24 mins   >>>>>>>>>>>>>>>>>>>------   74.54 %
+Java         1 hr 27 mins    >>>>---------------------   17.00 %
+Other        22 mins         >------------------------   04.27 %
+Rust         19 mins         >------------------------   03.84 %
+TOML         1 min           -------------------------   00.23 %
 ```
 
 <!--END_SECTION:waka-->
