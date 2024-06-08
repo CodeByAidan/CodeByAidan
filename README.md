@@ -11,7 +11,7 @@
 
 <!-- <img align="right" src="https://user-images.githubusercontent.com/67598470/199029189-64a854c4-2f8e-421a-870c-92f3650d389e.gif" width="300"> -->
 
-_I am a AI research self-learner, programmer, and computer science student. I spend my free time working on side projects! You can contact me on Discord below! :)_
+_I am an AI research self-learner, programmer, and computer science student. I spend my free time working on side projects! You can contact me on Discord below! :)_
 
 <!-- https://github.com/qoft/sellapp/pull/2#issuecomment-1341829208
 Love this argument :trollface:
@@ -71,7 +71,7 @@ teaching a person linear algebra :trollface: -->
 
 <h2><i>Top Languages</i></h2>
 
-<h6> Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. </h6>
+<h6>Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</h6>
 
 </div>
 
