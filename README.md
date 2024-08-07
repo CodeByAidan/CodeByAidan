@@ -66,7 +66,7 @@ Java         42 mins         -------------------------   01.71 %
 <!--END_SECTION:waka-->
 
 ```json
-{
+{ 
 	"Languages": {
 		"Assembly (NASM/x86)": "Beginner",
 		"C": "Beginner",
