@@ -52,15 +52,15 @@ _I am a AI research self-learner, programmer, and computer science student. I sp
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 July 2024 - To: 07 August 2024
+From: 01 August 2024 - To: 08 August 2024
 
-Total Time: 41 hrs 47 mins
+Total Time: 41 hrs 6 mins
 
-Python       33 hrs 50 mins  >>>>>>>>>>>>>>>>>>>>-----   81.00 %
-JSON         3 hrs 46 mins   >>-----------------------   09.02 %
-JavaScript   1 hr 47 mins    >------------------------   04.28 %
-Markdown     1 hr 3 mins     >------------------------   02.54 %
-Java         42 mins         -------------------------   01.71 %
+Python       27 hrs 56 mins  >>>>>>>>>>>>>>>>>--------   67.96 %
+Markdown     4 hrs 33 mins   >>>----------------------   11.08 %
+JSON         3 hrs 47 mins   >>-----------------------   09.21 %
+JavaScript   1 hr 47 mins    >------------------------   04.36 %
+PowerShell   1 hr 25 mins    >------------------------   03.48 %
 ```
 
 <!--END_SECTION:waka-->
