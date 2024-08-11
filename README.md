@@ -19,7 +19,7 @@
   </ul>
 </div>
 
-_I am a AI research self-learner, programmer, and computer science student. I spend my free time working on side projects! You can contact me through my PGP key below! :)_
+_I am a self-learner, programmer, and computer science student. I spend my free time working on side projects! You can contact me through my PGP key below! :)_
 
 <p align='center'>
   <a href="https://keybase.io/codebyaidan">
