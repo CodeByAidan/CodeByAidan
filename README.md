@@ -52,15 +52,15 @@ _I am a self-learner, programmer, and computer science student. I spend my free 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 August 2024 - To: 27 August 2024
+From: 21 August 2024 - To: 28 August 2024
 
-Total Time: 16 hrs 41 mins
+Total Time: 14 hrs 26 mins
 
-SCSS             3 hrs 47 mins   >>>>>>-------------------   22.66 %
-Java             2 hrs 48 mins   >>>>---------------------   16.79 %
-Python           2 hrs 33 mins   >>>>---------------------   15.37 %
-HTML             1 hr 55 mins    >>>----------------------   11.57 %
-CSS              1 hr 42 mins    >>>----------------------   10.25 %
+SCSS             3 hrs 47 mins   >>>>>>>------------------   26.20 %
+Java             3 hrs 43 mins   >>>>>>-------------------   25.78 %
+HTML             1 hr 55 mins    >>>----------------------   13.37 %
+CSS              1 hr 42 mins    >>>----------------------   11.85 %
+JavaScript       1 hr 10 mins    >>-----------------------   08.18 %
 ```
 
 <!--END_SECTION:waka-->
