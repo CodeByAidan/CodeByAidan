@@ -52,14 +52,15 @@ _I am a self-learner, programmer, and computer science student. I spend my free 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 September 2024 - To: 09 September 2024
+From: 03 September 2024 - To: 10 September 2024
 
-Total Time: 40 mins
+Total Time: 2 hrs 2 mins
 
-TOML        33 mins         >>>>>>>>>>>>>>>>>>>>-----   81.74 %
-Rust        6 mins          >>>>---------------------   14.94 %
-Batchfile   1 min           >------------------------   02.93 %
-Markdown    0 secs          -------------------------   00.38 %
+Python      49 mins         >>>>>>>>>>---------------   39.91 %
+TOML        36 mins         >>>>>>>------------------   29.74 %
+Rust        30 mins         >>>>>>-------------------   25.08 %
+JSON        5 mins          >------------------------   04.17 %
+Batchfile   1 min           -------------------------   00.96 %
 ```
 
 <!--END_SECTION:waka-->
