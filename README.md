@@ -52,13 +52,15 @@ _I am a self-learner, programmer, and computer science student. I spend my free 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 November 2024 - To: 20 November 2024
+From: 14 November 2024 - To: 21 November 2024
 
-Total Time: 1 hr 51 mins
+Total Time: 4 hrs 52 mins
 
-Python   1 hr 43 mins    >>>>>>>>>>>>>>>>>>>>>>>--   93.08 %
-Prolog   7 mins          >>-----------------------   06.90 %
-Text     0 secs          -------------------------   00.02 %
+Python       4 hrs 33 mins   >>>>>>>>>>>>>>>>>>>>>>>--   93.60 %
+Batchfile    9 mins          >------------------------   03.12 %
+Prolog       7 mins          >------------------------   02.63 %
+INI          1 min           -------------------------   00.44 %
+Text         0 secs          -------------------------   00.14 %
 ```
 
 <!--END_SECTION:waka-->
