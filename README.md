@@ -52,15 +52,15 @@ _I am a self-learner, programmer, and computer science student. I spend my free 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 November 2024 - To: 05 December 2024
+From: 29 November 2024 - To: 06 December 2024
 
-Total Time: 11 hrs 56 mins
+Total Time: 11 hrs 18 mins
 
-Python       7 hrs 9 mins    >>>>>>>>>>>>>>>----------   60.00 %
-C++          2 hrs 24 mins   >>>>>--------------------   20.15 %
-Markdown     55 mins         >>-----------------------   07.70 %
-Other        28 mins         >------------------------   03.91 %
-Java         20 mins         >------------------------   02.80 %
+Python       6 hrs 19 mins   >>>>>>>>>>>>>>-----------   55.98 %
+C++          2 hrs 24 mins   >>>>>--------------------   21.26 %
+Markdown     55 mins         >>-----------------------   08.13 %
+Other        28 mins         >------------------------   04.13 %
+Java         20 mins         >------------------------   02.95 %
 ```
 
 <!--END_SECTION:waka-->
