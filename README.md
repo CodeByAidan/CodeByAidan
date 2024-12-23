@@ -52,15 +52,13 @@ _I am a self-learner, programmer, and computer science student. I spend my free 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 December 2024 - To: 22 December 2024
+From: 16 December 2024 - To: 23 December 2024
 
-Total Time: 7 hrs 15 mins
+Total Time: 2 hrs 51 mins
 
-Python     5 hrs 4 mins    >>>>>>>>>>>>>>>>>--------   69.90 %
-JSON       1 hr 18 mins    >>>>---------------------   17.92 %
-Bash       48 mins         >>>----------------------   11.22 %
-Rust       2 mins          -------------------------   00.54 %
-TOML       0 secs          -------------------------   00.22 %
+Python   1 hr 30 mins    >>>>>>>>>>>>>------------   52.56 %
+Bash     48 mins         >>>>>>>------------------   28.49 %
+JSON     32 mins         >>>>>--------------------   18.95 %
 ```
 
 <!--END_SECTION:waka-->
