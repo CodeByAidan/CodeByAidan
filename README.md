@@ -52,11 +52,15 @@ _I am a self-learner, programmer, and computer science student. I spend my free 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 January 2025 - To: 01 February 2025
+From: 26 January 2025 - To: 02 February 2025
 
-Total Time: 0 secs
+Total Time: 5 hrs 6 mins
 
-No activity tracked
+Rust         4 hrs 3 mins    >>>>>>>>>>>>>>>>>>>>-----   79.35 %
+TOML         39 mins         >>>----------------------   12.89 %
+Batchfile    20 mins         >>-----------------------   06.72 %
+PowerShell   1 min           -------------------------   00.62 %
+Other        0 secs          -------------------------   00.17 %
 ```
 
 <!--END_SECTION:waka-->
