@@ -52,13 +52,13 @@ _I am a self-learner, programmer, and computer science student. I spend my free 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 February 2025 - To: 16 February 2025
+From: 10 February 2025 - To: 17 February 2025
 
-Total Time: 17 hrs 47 mins
+Total Time: 17 hrs 49 mins
 
-Python           9 hrs 39 mins   >>>>>>>>>>>>>>-----------   54.25 %
+Python           9 hrs 39 mins   >>>>>>>>>>>>>>-----------   54.21 %
 C                3 hrs 38 mins   >>>>>--------------------   20.47 %
-Rust             1 hr 41 mins    >>-----------------------   09.54 %
+Rust             1 hr 42 mins    >>-----------------------   09.61 %
 ObjectiveC       36 mins         >------------------------   03.41 %
 YAML             31 mins         >------------------------   02.98 %
 ```
