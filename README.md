@@ -52,15 +52,15 @@ _I am a self-learner, programmer, and computer science student. I spend my free 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 March 2025 - To: 10 March 2025
+From: 04 March 2025 - To: 11 March 2025
 
-Total Time: 21 hrs 42 mins
+Total Time: 18 hrs 9 mins
 
-JavaScript   10 hrs 8 mins   >>>>>>>>>>>>-------------   46.72 %
-C            4 hrs 45 mins   >>>>>--------------------   21.91 %
-Text         2 hrs 27 mins   >>>----------------------   11.31 %
-Python       1 hr 15 mins    >------------------------   05.83 %
-JSON         42 mins         >------------------------   03.28 %
+JavaScript   8 hrs 12 mins   >>>>>>>>>>>--------------   45.24 %
+C            4 hrs 56 mins   >>>>>>>------------------   27.22 %
+Text         2 hrs 27 mins   >>>----------------------   13.52 %
+Python       1 hr 15 mins    >>-----------------------   06.97 %
+Makefile     23 mins         >------------------------   02.18 %
 ```
 
 <!--END_SECTION:waka-->
