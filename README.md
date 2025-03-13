@@ -65,6 +65,7 @@ Makefile     23 mins         >------------------------   02.43 %
 
 <!--END_SECTION:waka-->
 
+<!-- corny...
 ```json
 { 
 	"Languages": {
@@ -100,6 +101,7 @@ Makefile     23 mins         >------------------------   02.43 %
 	]
 }
 ```
+-->
 
 <div align="center">
   <h2><i>Tools and Technologies</i></h2>
