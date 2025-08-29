@@ -52,15 +52,12 @@ _I am a self-learner, programmer, and computer science student. I spend my free 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 August 2025 - To: 28 August 2025
+From: 22 August 2025 - To: 29 August 2025
 
-Total Time: 3 hrs 17 mins
+Total Time: 2 hrs 45 mins
 
-Python   3 hrs           >>>>>>>>>>>>>>>>>>>>>>>--   91.53 %
-C#       15 mins         >>-----------------------   07.95 %
-JSON     0 secs          -------------------------   00.46 %
-Image    0 secs          -------------------------   00.04 %
-XML      0 secs          -------------------------   00.02 %
+Python   2 hrs 44 mins   >>>>>>>>>>>>>>>>>>>>>>>>>   99.46 %
+JSON     0 secs          -------------------------   00.54 %
 ```
 
 <!--END_SECTION:waka-->
