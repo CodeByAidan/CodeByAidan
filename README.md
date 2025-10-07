@@ -52,14 +52,14 @@ _I am a self-learner, programmer, and computer science student. I spend my free 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 September 2025 - To: 06 October 2025
+From: 30 September 2025 - To: 07 October 2025
 
-Total Time: 2 hrs 17 mins
+Total Time: 4 hrs
 
-Ada        1 hr 36 mins    >>>>>>>>>>>>>>>>>--------   69.61 %
-Markdown   41 mins         >>>>>>>------------------   29.78 %
-Other      0 secs          -------------------------   00.31 %
-Python     0 secs          -------------------------   00.30 %
+Ada        2 hrs 40 mins   >>>>>>>>>>>>>>>>>--------   66.98 %
+Markdown   1 hr 18 mins    >>>>>>>>-----------------   32.67 %
+Other      0 secs          -------------------------   00.18 %
+Python     0 secs          -------------------------   00.17 %
 ```
 
 <!--END_SECTION:waka-->
