@@ -52,12 +52,13 @@ _I am a self-learner, programmer, and computer science student. I spend my free 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 December 2025 - To: 30 December 2025
+From: 24 December 2025 - To: 31 December 2025
 
-Total Time: 38 mins
+Total Time: 1 hr 14 mins
 
-JavaScript   37 mins         >>>>>>>>>>>>>>>>>>>>>>>>-   97.97 %
-PowerShell   0 secs          >------------------------   02.03 %
+JavaScript   1 hr 9 mins     >>>>>>>>>>>>>>>>>>>>>>>--   92.59 %
+C++          4 mins          >>-----------------------   06.37 %
+PowerShell   0 secs          -------------------------   01.04 %
 ```
 
 <!--END_SECTION:waka-->
