@@ -52,7 +52,7 @@ _I am a self-learner, programmer, and computer science student. I spend my free 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 December 2025 - To: 07 January 2026
+From: 01 January 2026 - To: 08 January 2026
 
 Total Time: 42 mins
 
