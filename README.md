@@ -52,11 +52,15 @@ _I am a self-learner, programmer, and computer science student. I spend my free 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 January 2026 - To: 30 January 2026
+From: 24 January 2026 - To: 31 January 2026
 
-Total Time: 13 mins
+Total Time: 2 hrs 55 mins
 
-INI   13 mins         >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
+PowerShell   1 hr 30 mins    >>>>>>>>>>>>>------------   51.40 %
+JSON         26 mins         >>>>---------------------   15.11 %
+CSS          17 mins         >>-----------------------   09.99 %
+TypeScript   16 mins         >>-----------------------   09.62 %
+INI          13 mins         >>-----------------------   07.62 %
 ```
 
 <!--END_SECTION:waka-->
