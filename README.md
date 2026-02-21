@@ -52,15 +52,15 @@ _I am a self-learner, programmer, and computer science student. I spend my free 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 February 2026 - To: 20 February 2026
+From: 14 February 2026 - To: 21 February 2026
 
-Total Time: 2 hrs 16 mins
+Total Time: 3 hrs 33 mins
 
-C++           1 hr 4 mins           >>>>>>>>>>>>-------------   47.07 %
-Python        45 mins               >>>>>>>>-----------------   33.56 %
-Objective-C   16 mins               >>>----------------------   12.37 %
-INI           8 mins                >>-----------------------   06.18 %
-JSON          0 secs                -------------------------   00.48 %
+Python        1 hr 23 mins          >>>>>>>>>>---------------   38.94 %
+C++           1 hr 4 mins           >>>>>>>>-----------------   30.03 %
+Markdown      27 mins               >>>----------------------   13.07 %
+Objective-C   16 mins               >>-----------------------   07.89 %
+YAML          10 mins               >------------------------   04.73 %
 ```
 
 <!--END_SECTION:waka-->
