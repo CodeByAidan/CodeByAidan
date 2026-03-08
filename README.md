@@ -52,12 +52,12 @@ _I am a self-learner, programmer, and computer science student. I spend my free 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 February 2026 - To: 07 March 2026
+From: 01 March 2026 - To: 08 March 2026
 
-Total Time: 18 mins
+Total Time: 36 mins
 
-Python   18 mins               >>>>>>>>>>>>>>>>>>>>>>>>>   99.94 %
-INI      0 secs                -------------------------   00.06 %
+XML   22 mins               >>>>>>>>>>>>>>>>---------   62.68 %
+C#    13 mins               >>>>>>>>>----------------   37.32 %
 ```
 
 <!--END_SECTION:waka-->
