@@ -52,15 +52,15 @@ _I am a self-learner, programmer, and computer science student. I spend my free 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 August 2026 - To: 28 August 2026
+From: 22 August 2026 - To: 29 August 2026
 
-Total Time: 21 hrs 27 mins
+Total Time: 21 hrs 5 mins
 
-Python        11 hrs 3 mins         >>>>>>>>>>>>>------------   51.53 %
-Markdown      6 hrs 3 mins          >>>>>>>------------------   28.26 %
-TOML          1 hr 29 mins          >>-----------------------   06.92 %
-JSON          39 mins               >------------------------   03.04 %
-Bash          24 mins               -------------------------   01.88 %
+Python        11 hrs 31 mins        >>>>>>>>>>>>>>-----------   54.59 %
+Markdown      5 hrs 28 mins         >>>>>>-------------------   25.92 %
+TOML          1 hr 28 mins          >>-----------------------   07.02 %
+Other         34 mins               >------------------------   02.74 %
+JSON          31 mins               >------------------------   02.50 %
 ```
 
 <!--END_SECTION:waka-->
