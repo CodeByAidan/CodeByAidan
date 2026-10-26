@@ -30,7 +30,7 @@ _I am a self-learner, programmer, and computer science student. I spend my free 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=CodeByAidan&label=Profile%20views&color=0e75b6&style=flat" alt="CodeByAidan" />
   <img alt="wakatime" src="https://wakatime.com/badge/user/df411a1a-efe6-4563-bbd4-4aeac36e8212.svg">
-  <img alt="Codewars" src="https://www.codewars.com/users/livxy/badges/micro">
+  <!-- <img alt="Codewars" src="https://www.codewars.com/users/livxy/badges/micro"> -->
 </p>
 
 <div align="center">
@@ -38,6 +38,7 @@ _I am a self-learner, programmer, and computer science student. I spend my free 
 
 ![CodeByAidan's GitHub stats](https://github-readme-stats-livxy.vercel.app/api?username=CodeByAidan&title_color=4F8CC9&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true)[![GitHub Streak](https://streak-stats.demolab.com?user=CodeByAidan&hide_border=true&background=00000000&border=00000000&stroke=9F9F9F&ring=64B2FF&fire=4F8CC9&currStreakNum=4F8CC9&sideNums=4F8CC9&currStreakLabel=D8D8D8&sideLabels=D8D8D8&dates=9F9F9F)](https://git.io/streak-stats)
 
+<!--
   <h2><i>Activity Graph</i></h2>
 
 [![CodeByAidan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CodeByAidan&bg_color=00000000&color=c7c7c7&line=75baff&point=4F8CC9&area=true&hide_border=true)](https://github.com/CodeByAidan/)
@@ -48,6 +49,7 @@ _I am a self-learner, programmer, and computer science student. I spend my free 
   <h2><i>Top Languages</i></h2>
   <h6>Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</h6>
 </div>
+-->
 
 <!--START_SECTION:waka-->
 
@@ -154,6 +156,7 @@ No activity tracked
 
 ### 🎛️ Operating Systems
 
+![CachyOS](https://img.shields.io/badge/CachyOS-00AA88?style=for-the-badge&logo=cachyos&logoColor=white)
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
@@ -162,6 +165,6 @@ No activity tracked
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
 
-<p align="center">
+<!-- <p align="center">
     <img src="github-metrics.png">
-</p>
+</p> -->
