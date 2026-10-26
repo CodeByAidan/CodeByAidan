@@ -53,14 +53,6 @@ _I am a self-learner, programmer, and computer science student. I spend my free 
 
 <!--START_SECTION:waka-->
 
-```txt
-From: 19 October 2026 - To: 26 October 2026
-
-Total Time: 0 secs
-
-No activity tracked
-```
-
 <!--END_SECTION:waka-->
 
 <!-- corny...
