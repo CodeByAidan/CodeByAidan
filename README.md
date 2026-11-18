@@ -29,7 +29,7 @@ _I am a self-learner, programmer, and computer science student. I spend my free 
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=CodeByAidan&label=Profile%20views&color=0e75b6&style=flat" alt="CodeByAidan" />
-  <img alt="wakatime" src="https://wakatime.com/badge/user/df411a1a-efe6-4563-bbd4-4aeac36e8212.svg">
+  <!-- <img alt="wakatime" src="https://wakatime.com/badge/user/df411a1a-efe6-4563-bbd4-4aeac36e8212.svg"> -->
   <!-- <img alt="Codewars" src="https://www.codewars.com/users/livxy/badges/micro"> -->
 </p>
 
@@ -51,17 +51,6 @@ _I am a self-learner, programmer, and computer science student. I spend my free 
 </div>
 -->
 
-<!--START_SECTION:waka-->
-
-```txt
-From: 25 October 2026 - To: 01 November 2026
-
-Total Time: 0 secs
-
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
 
 <!-- corny...
 ```json
